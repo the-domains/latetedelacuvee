@@ -6,14 +6,14 @@ description: >-
   more than just explain the virtues of the TPP: he needs to help the next
   president reset the US agenda on trade. That case is all about America’s
   ability to trade, adapt and better divide the pie and share the pain.
-dateModified: '2016-08-19T14:07:30.552Z'
-datePublished: '2016-08-19T14:07:49.579Z'
+dateModified: '2016-08-19T14:08:25.061Z'
+datePublished: '2016-08-19T14:08:25.204Z'
 title: Barack’s gift to Hillary on TPP and Trade
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-baracks-gift-to-hillary-on-tpp-and-trade.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
