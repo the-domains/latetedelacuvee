@@ -1,0 +1,14 @@
+layout_spectrum: 0.21478093951009214
+typography_spectrum: 0.48219267558306456
+color:
+  brandStrength: 0.7236337752547115
+  lightness: 0.23225578083656728
+  saturation: 0.7392125343903899
+  rhythmicContrast: 0.056903738994151354
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: LaTetedelaCuvee
