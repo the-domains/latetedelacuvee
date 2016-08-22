@@ -1,7 +1,7 @@
 ---
 title: Barack’s gift to Hillary on TPP and Trade
-datePublished: '2016-08-22T16:55:51.215Z'
-dateModified: '2016-08-22T16:55:03.682Z'
+datePublished: '2016-08-22T17:07:17.335Z'
+dateModified: '2016-08-22T17:05:45.524Z'
 publisher:
   name: Andrew Crosby
 author: []
@@ -47,7 +47,7 @@ Globally, policymaker responses have been "more of the same." Prime the pumps an
 
 Unfortunately, the starting point for dialogue on these issues is over simplistic, outdated. Policymaker's approach to international trade competitiveness strategies, for example, have been shaped by centuries of mercantile logic and corporate favoritism, and these policies have been embedded in national and international systems that have been shaped by an "export is winning" and "import is losing" mentality.
 
-But new technologies and business models mean that the logic and benchmarks by which we should judge trade are not about imports versus exports. The key metric (for which we barely have data) is "added value" that can be generated through harnessing production chains, investment strategies, and the vitality and adaptability of markets to produce whatever, whenever, given a set of evolving resources and business and consumer demands. It is fast and fluid and governments are on the one hand behind in adapting to it and on the other constrained by institutions and actors that have built and benefitted from the old systems. What's more the potential gains from this complexity---and they are significant---demand international rules of the road that build trust, promote interoperability of systems, and ensure a level playing field.
+But new technologies and business models mean that the logic and benchmarks by whoich we should judge trade are not about imports versus exports. The key metric (for which we barely have data) is "added value" that can be generated through harnessing production chains, investment strategies, and the vitality and adaptability of markets to produce whatever, whenever, given a set of evolving resources and business and consumer demands. It is fast and fluid and governments are on the one hand behind in adapting to it and on the other constrained by institutions and actors that have built and benefitted from the old systems. What's more the potential gains from this complexity---and they are significant---demand international rules of the road that build trust, promote interoperability of systems, and ensure a level playing field.
 
 The next US president (and many other national leaders) must now build a dialogue that reflects the actual working of the global economy; the case for new and refashioned domestic policies; and the role of international agreements in extending these dynamics.
 
