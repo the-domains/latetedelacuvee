@@ -11,6 +11,9 @@ color:
     - '#DB9E36'
     - '#BD4932'
 layout_spectrum: 0.21478093951009214
+author:
+  name: Andrew Crosby
+  email: andrewncrosby@gmail.com
 name: LaTetedelaCuvee
 title: La Tete de la Cuvee
 description: best from first press
