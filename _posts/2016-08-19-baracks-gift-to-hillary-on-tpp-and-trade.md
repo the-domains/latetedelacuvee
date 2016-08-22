@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-22T12:35:44.918Z'
+datePublished: '2016-08-22T12:37:01.803Z'
 sourcePath: _posts/2016-08-19-baracks-gift-to-hillary-on-tpp-and-trade.md
 author: []
 via: {}
-dateModified: '2016-08-22T12:35:44.368Z'
+dateModified: '2016-08-22T12:37:01.186Z'
 title: Barack’s gift to Hillary on TPP and Trade
 publisher:
   name: Andrew Crosby
@@ -16,11 +16,10 @@ description: >-
   he needs to help the next president reset the US agenda on trade. More than
   ever, that agenda is about America’s trade-readiness at home: its ability to
   innovate, adapt, and to better divide the pie and share the pain.
+hasPage: true
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: baracks-gift-to-hillary-on-tpp-and-trade/index.html
+_type: Blurb
 
 ---
 # Barack's gift to Hillary on TPP and Trade
