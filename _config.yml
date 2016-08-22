@@ -15,5 +15,9 @@ author:
   name: Andrew Crosby
   email: andrewncrosby@gmail.com
 name: LaTetedelaCuvee
+navigation:
+  - name: Trade
+    id: 08b97c60-45f6-43ba-a20e-5d6c1b1ba550
+    type: content
 title: La Tete de la Cuvee
 description: best from first press
