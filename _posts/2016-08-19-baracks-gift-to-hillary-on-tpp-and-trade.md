@@ -1,13 +1,11 @@
 ---
-datePublished: '2016-08-22T12:39:33.553Z'
-sourcePath: _posts/2016-08-19-baracks-gift-to-hillary-on-tpp-and-trade.md
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-22T12:39:32.924Z'
 title: Barack’s gift to Hillary on TPP and Trade
+datePublished: '2016-08-22T16:55:51.215Z'
+dateModified: '2016-08-22T16:55:03.682Z'
 publisher:
   name: Andrew Crosby
+author: []
+hasPage: true
 description: >-
   President Obama recently stated that he would make the case for why the US
   should ratify the Trans Pacific Partnership (TPP), an international
@@ -17,7 +15,9 @@ description: >-
   he needs to help the next president reset the US agenda on trade. More than
   ever, that agenda is about America’s trade-readiness at home: its ability to
   innovate, adapt, and to better divide the pie and share the pain.
+via: {}
 starred: true
+sourcePath: _posts/2016-08-19-baracks-gift-to-hillary-on-tpp-and-trade.md
 url: baracks-gift-to-hillary-on-tpp-and-trade/index.html
 _type: Blurb
 
