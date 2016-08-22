@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-22T12:37:01.803Z'
+datePublished: '2016-08-22T12:39:33.553Z'
 sourcePath: _posts/2016-08-19-baracks-gift-to-hillary-on-tpp-and-trade.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T12:37:01.186Z'
+dateModified: '2016-08-22T12:39:32.924Z'
 title: Barack’s gift to Hillary on TPP and Trade
 publisher:
   name: Andrew Crosby
@@ -16,7 +17,6 @@ description: >-
   he needs to help the next president reset the US agenda on trade. More than
   ever, that agenda is about America’s trade-readiness at home: its ability to
   innovate, adapt, and to better divide the pie and share the pain.
-hasPage: true
 starred: true
 url: baracks-gift-to-hillary-on-tpp-and-trade/index.html
 _type: Blurb
@@ -76,5 +76,3 @@ As the fate of TPP is about to be decided, the prospects for trade and who can p
 So, President Obama, when you take the stage to defend the TPP, please do what you have been doing so well for the past eight years: tee up the discussion and vision for the future that Hillary Clinton can grab and run with: a nonpartisan agenda to adapt to the new economy and reinvigorate domestic innovation with an ambitious role for international trade. This is important not only for the US strategic interest, but also because US leadership in this area can help to define important principles and precedents for the next generation of global economic relationships. It may not save the TPP in the short run, but America's and the world's livelihoods depend on it.
 
 This article has benefitted greatly from my work at the International Centre for Trade and Sustainable Development. However, the views expressed are my own and do not necessarily reflect ICTSD's views.
-
-t
