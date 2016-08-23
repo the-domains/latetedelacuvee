@@ -1,11 +1,13 @@
 ---
+datePublished: '2016-08-23T09:01:51.536Z'
+inFeed: true
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-23T09:01:51.024Z'
 title: Barack’s gift to Hillary on TPP and Trade
-datePublished: '2016-08-22T17:07:17.335Z'
-dateModified: '2016-08-22T17:05:45.524Z'
 publisher:
   name: Andrew Crosby
-author: []
-hasPage: true
 description: >-
   President Obama recently stated that he would make the case for why the US
   should ratify the Trans Pacific Partnership (TPP), an international
@@ -15,11 +17,10 @@ description: >-
   he needs to help the next president reset the US agenda on trade. More than
   ever, that agenda is about America’s trade-readiness at home: its ability to
   innovate, adapt, and to better divide the pie and share the pain.
-via: {}
 starred: true
 sourcePath: _posts/2016-08-19-baracks-gift-to-hillary-on-tpp-and-trade.md
 url: baracks-gift-to-hillary-on-tpp-and-trade/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Barack's gift to Hillary on TPP and Trade
@@ -47,7 +48,7 @@ Globally, policymaker responses have been "more of the same." Prime the pumps an
 
 Unfortunately, the starting point for dialogue on these issues is over simplistic, outdated. Policymaker's approach to international trade competitiveness strategies, for example, have been shaped by centuries of mercantile logic and corporate favoritism, and these policies have been embedded in national and international systems that have been shaped by an "export is winning" and "import is losing" mentality.
 
-But new technologies and business models mean that the logic and benchmarks by whoich we should judge trade are not about imports versus exports. The key metric (for which we barely have data) is "added value" that can be generated through harnessing production chains, investment strategies, and the vitality and adaptability of markets to produce whatever, whenever, given a set of evolving resources and business and consumer demands. It is fast and fluid and governments are on the one hand behind in adapting to it and on the other constrained by institutions and actors that have built and benefitted from the old systems. What's more the potential gains from this complexity---and they are significant---demand international rules of the road that build trust, promote interoperability of systems, and ensure a level playing field.
+> But new technologies and business models mean that the logic and benchmarks by whoich we should judge trade are not about imports versus exports. The key metric (for which we barely have data) is "added value" that can be generated through harnessing production chains, investment strategies, and the vitality and adaptability of markets to produce whatever, whenever, given a set of evolving resources and business and consumer demands. It is fast and fluid and governments are on the one hand behind in adapting to it and on the other constrained by institutions and actors that have built and benefitted from the old systems. What's more the potential gains from this complexity---and they are significant---demand international rules of the road that build trust, promote interoperability of systems, and ensure a level playing field.
 
 The next US president (and many other national leaders) must now build a dialogue that reflects the actual working of the global economy; the case for new and refashioned domestic policies; and the role of international agreements in extending these dynamics.
 
