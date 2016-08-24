@@ -19,5 +19,8 @@ navigation:
   - name: Trade
     id: 08b97c60-45f6-43ba-a20e-5d6c1b1ba550
     type: content
+  - name: Trade
+    id: cb4ac8f9-4ee0-4a8b-9a9c-0a8a010c2d8b
+    type: content
 title: La Tete de la Cuvee
 description: best from first press
