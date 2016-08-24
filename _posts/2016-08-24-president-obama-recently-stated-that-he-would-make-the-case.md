@@ -9,19 +9,18 @@ description: >-
   ever, that agenda is about America’s trade-readiness at home, namely its
   ability to innovate and adapt, and to better divide the pie and share the
   pain.
-dateModified: '2016-08-24T10:22:43.927Z'
-datePublished: '2016-08-24T10:22:58.390Z'
+dateModified: '2016-08-24T10:25:59.073Z'
+datePublished: '2016-08-24T10:26:00.050Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-24-president-obama-recently-stated-that-he-would-make-the-case.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: president-obama-recently-stated-that-he-would-make-the-case/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de6f127b-11ea-4f07-b47b-ee856ea01235.jpg)
