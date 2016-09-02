@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T08:23:04.840Z'
+datePublished: '2016-08-31T08:24:51.250Z'
 sourcePath: >-
   _posts/2016-08-24-president-obama-recently-stated-that-he-would-make-the-case.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T08:23:04.170Z'
+dateModified: '2016-08-31T08:24:50.753Z'
 title: ''
 publisher: {}
 description: Barack’s gift to Hillary on TPP and trade
