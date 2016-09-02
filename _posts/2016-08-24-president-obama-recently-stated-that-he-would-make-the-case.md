@@ -1,29 +1,21 @@
 ---
-datePublished: '2016-08-31T08:17:47.475Z'
+datePublished: '2016-08-31T08:23:04.840Z'
 sourcePath: >-
   _posts/2016-08-24-president-obama-recently-stated-that-he-would-make-the-case.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T08:17:46.405Z'
+dateModified: '2016-08-31T08:23:04.170Z'
 title: ''
 publisher: {}
-description: >-
-  President Obama recently stated that he would make the case for why the US
-  should ratify the Trans-Pacific Partnership (TPP), an international
-  integration agreement (encompassing 12 countries and some 40 percent of global
-  GDP) that sets its ambitions beyond traditional trade agreements. When Obama
-  makes his case, he needs to do more than just explain the virtues of the TPP:
-  he needs to help the next president reset the US agenda on trade. More than
-  ever, that agenda is about America’s trade-readiness at home, namely its
-  ability to innovate and adapt, and to better divide the pie and share the
-  pain.
-starred: false
+description: Barack’s gift to Hillary on TPP and trade
+starred: true
 url: president-obama-recently-stated-that-he-would-make-the-case/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de6f127b-11ea-4f07-b47b-ee856ea01235.jpg)
+**Barack's gift to Hillary on TPP and trade**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/deefa01d-8e17-4938-a547-e9d015045596.jpg)
 
 President Obama recently stated that he would make the case for why the US should ratify the [Trans-Pacific Partnership (TPP)][0], an international integration agreement ([encompassing 12 countries and some 40 percent of global GDP][1]) that sets its ambitions beyond traditional trade agreements. When Obama makes his case, he needs to do more than just explain the virtues of the TPP: he needs to help the next president reset the US agenda on trade. More than ever, that agenda is about America's trade-readiness at home, namely its ability to innovate and adapt, and to better divide the pie and share the pain.
 
@@ -74,6 +66,8 @@ The government must redefine its role to make sure these changes generate positi
 As the fate of TPP is about to be decided, the prospects for trade and who can participate have never had more potential. But in order to realise this potential, the TPP needs to go hand-in-glove with national reforms that provide the infrastructure and social systems to promote and sustain innovation and adaptation. Passage of the TPP gives the US and its next president an opportunity to walk the talk in reshaping US domestic policies and making it more trade-ready, while extending its ability to usher in a new era of international trade. Such steps have the potential to radically change who participates in our economies --- both at home and abroad --- as well as the political constituencies that support extending international commercial relationships. A potent vision is a nation in which all of its citizens have the domestic structures and international agreements that enable them to engage in creative and entrepreneurial commercial activity domestically and internationally.
 
 So, President Obama, when you take the stage to [defend the TPP][20], please do what you have been doing so well for the past eight years and tee up a vision for the future that Hillary Clinton can grab and run with: a nonpartisan agenda to adapt to the new economy and reinvigorate domestic innovation with an ambitious role for international trade. This is important not only for the US strategic interest, but also because US leadership in this area can help to define important principles and precedents for the next generation of global economic relationships. It may not save the TPP in the short run, but America's and the world's livelihoods depend on it.
+
+This article was first published on the E15Initiative.org August 2016
 
 [0]: https://ustr.gov/tpp/
 [1]: https://ustr.gov/tpp/overview-of-the-TPP
