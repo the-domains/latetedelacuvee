@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-26T15:46:58.256Z'
+datePublished: '2016-08-31T08:17:47.475Z'
 sourcePath: >-
   _posts/2016-08-24-president-obama-recently-stated-that-he-would-make-the-case.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T15:46:57.677Z'
+dateModified: '2016-08-31T08:17:46.405Z'
 title: ''
 publisher: {}
 description: >-
